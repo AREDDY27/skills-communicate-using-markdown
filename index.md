@@ -5,3 +5,6 @@
 ```javascript
 var myVar = "Hello, world!";
 ```
+- [x] Read all the steps
+- [x] Scratch your head in wonder
+- [ ] Decide if this is worth your time or if you should just finish your doordash order instead...
